@@ -1,0 +1,29 @@
+/* colors */
+:root {
+  --black: #000;
+  --satan: #666;
+  --white: #fff;
+}
+
+/* typography */
+:root {
+  --text-xxs: 1.2rem;
+  --text-xs: 1.4rem;
+  --text-sm: 1.6rem;
+  --text-md: 1.8rem;
+  --text-lg: 2rem;
+  --text-xl: 2.2rem;
+  --text-xxl: 2.4rem;
+}
+
+/* spacing */
+:root {
+  --navbar-height: 80px;
+  --space-xxs: 4px;
+  --space-xs: 8px;
+  --space-sm: 12px;
+  --space-md: 16px;
+  --space-lg: 20px;
+  --space-xl: 24px;
+  --space-xxl: 28px;
+}

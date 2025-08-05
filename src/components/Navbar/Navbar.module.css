@@ -1,0 +1,11 @@
+@import '../../styles/variables.css';
+
+.container {
+  display: flex;
+  gap: var(--space-md);
+  width: 100%;
+  height: var(--navbar-height);
+  background-color: var(--black);
+  color: var(--white);
+  padding: var(--space-md);
+}
